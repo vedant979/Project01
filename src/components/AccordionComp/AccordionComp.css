@@ -1,0 +1,33 @@
+.accord{
+    border-bottom: 0px solid;
+    box-shadow: 0px 0px 0px 0px !important;
+    padding: 0px;
+    margin: 0% !important;
+}
+.footer-content{
+    height: 400px;
+}
+.details{
+    display: flex;
+    align-items: center !important;
+    font-size: 20px;
+    font-weight: 700;
+    font-family: sans-serif;
+    margin: 0%;
+}
+.accord-details{
+    padding: 0px !important;
+}
+.header2{
+    text-align: center;
+    font-size: 30px;
+    font-family: sans-serif;
+}
+.items{
+    list-style: none;
+    font-size: 17px;
+    font-weight: 600;
+    font-family: sans-serif;
+    display: flex;
+    align-items: center !important;
+}

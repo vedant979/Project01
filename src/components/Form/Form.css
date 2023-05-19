@@ -1,0 +1,27 @@
+.box-container{
+    margin-top: 57px;
+    justify-content: center;
+    height: 100%;
+    display: flex;
+    align-items: center;
+}
+
+.form-container{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    width: 50%;
+    min-height: 40%;
+    height: 40%;
+    align-items: center;
+}
+.input-type{
+    width: 100%;
+}
+
+.btn-submit{
+    font-size: 15px !important;
+    text-transform: capitalize !important;
+    font-weight: 600 !important;
+    width: 20%;
+}
