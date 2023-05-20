@@ -6,9 +6,14 @@ In this project, I have implemented the basic UI using [Material UI](https://mui
 In the first page, I have added a contact form. On submitting this form with required data, the data will be saved in Local Storage.
 
 In the Second page I have used a random API, fetched it's data and shown in [Data-Grid](https://mui.com/x/react-data-grid/) and added [Accordion](https://mui.com/material-ui/react-accordion/) using [Material UI](https://mui.com/).
+
+I have deployed the project using Netlify, 
+
+The deployed Link: [click here](https://project-prac.netlify.app/)
 ## Built with
 * [React.js](https://legacy.reactjs.org/)
 * [Material UI](https://mui.com/)
+
 
 
 ## These are some of the snapshots of website
